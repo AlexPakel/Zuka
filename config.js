@@ -49,7 +49,7 @@ global.stg = 'https://t.me/XiaomiBOT'
 global.snh = 'wa.me/62857791505012'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085779150501'
+global.pdana = '081287142545/082171432358'
 global.povo = '085779150501'
 global.pgopay = '085779150501'
 global.ppulsa = '085779150501'
@@ -57,18 +57,18 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/rangga123gg'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857791505013'
-global.nomorown = '62857791505012'
-global.namebot = 'XiaomiBOT'
-global.nameown = 'HanzOfcⒸ︎'
+global.nomorbot = '6281287142545'
+global.nomorown = '6282171432358'
+global.namebot = 'MEGA-STORE'
+global.nameown = 'Alex'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012', 'Owner', true]
+  ['6281287142545'],
+  ['6282171432358'],
+  ['6281287142545'],
+  ['6282171432358', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'XiaomiBOT' //Main Watermark
+global.wm = 'MEGA-STORE' //Main Watermark
 global.wm2 = 'Halo kak Selamat datang di XiaomiBOT👋'
-global.wm3 = '☘︎ XiaomiBotz'
+global.wm3 = '☘︎ MEGA-STORE'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'XiaomiBOTⒸ︎' 
+global.titlebot = `☘︎ p| By ${global.nameown}`
+global.author = 'MEGA-STORE' 
 
 
 /*============== LOGO ==============*/
@@ -179,8 +179,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cie mau nyolong ya'
-global.stickauth = `By XiaomiBOTⒸ︎`
+global.stickpack = 'Stiker'
+global.stickauth = `By Alex`
 
 global.multiplier = 38 // The higher, The harder levelup
 
